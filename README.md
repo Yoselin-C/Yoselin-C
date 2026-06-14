@@ -1,6 +1,5 @@
 ## Yoselin Yulisa Teletor Calo — Ingeniería en Sistemas y Ciencias de la Computación
-Estudiante de Ingeniería en Sistemas en Universidad Mariano Gálvez, sede Cobán.
-Enfocada en automatización de pruebas, DevSecOps e infraestructura de red.
+Ingeniera en Sistemas enfocado en automatización de pruebas y seguridad en pipelines CI/CD. Construyo frameworks de testing E2E, pipelines DevSecOps con security gates e infraestructura reproducible con Docker. Basado en Guatemala 🇬🇹 — disponible para proyectos remotos.
 
 ---
 
