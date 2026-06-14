@@ -1,5 +1,5 @@
 ## Yoselin Yulisa Teletor Calo — Ingeniería en Sistemas y Ciencias de la Computación
-Ingeniera en Sistemas enfocado en automatización de pruebas y seguridad en pipelines CI/CD. Construyo frameworks de testing E2E, pipelines DevSecOps con security gates e infraestructura reproducible con Docker. Basado en Guatemala 🇬🇹 — disponible para proyectos remotos.
+Ingeniera en Sistemas enfocada en automatización de pruebas y seguridad en pipelines CI/CD. Construyo frameworks de testing E2E, pipelines DevSecOps con security gates e infraestructura reproducible con Docker. Basado en Guatemala 🇬🇹 — disponible para proyectos remotos.
 
 ---
 
